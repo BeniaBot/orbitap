@@ -1,6 +1,6 @@
 <div align="right" dir="rtl">
 
-# 🪐 קפיצת מסלול · Orbitap
+# &rlm;🪐 Orbitap
 
 **משחק לחיצה אחת בחלל | קובץ HTML אחד | עובד גם בלי אינטרנט**
 
@@ -11,7 +11,7 @@
 
 </div>
 
-[![קפיצת מסלול](media/screenshot.jpg)](https://beniabot.github.io/orbitap/)
+[![Orbitap](media/screenshot.jpg)](https://beniabot.github.io/orbitap/)
 
 <div align="right" dir="rtl">
 

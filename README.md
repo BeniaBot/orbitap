@@ -9,6 +9,8 @@
 
 **[▶ לשחק עכשיו](https://beniabot.github.io/orbitap/)** · **[⬇ להורדה, לשחק בלי אינטרנט](https://github.com/BeniaBot/orbitap/releases/latest)**
 
+📱 בטלפון: פותחים את הקישור, ובתפריט של כרום בוחרים "התקנה" או "הוספה למסך הבית". מאז הוא עובד גם בלי אינטרנט.
+
 </div>
 
 [![Orbitap](media/screenshot.jpg)](https://beniabot.github.io/orbitap/)
@@ -52,6 +54,8 @@ Your ship circles a planet. Tap to fire it in a straight line, and land on the n
 Made from a single prompt to Claude Opus 5.5 - "surprise me" - with no human direction or corrections.
 
 [Play](https://beniabot.github.io/orbitap/) · [Download for offline play](https://github.com/BeniaBot/orbitap/releases/latest)
+
+📱 On a phone: open the link and pick "Install app" or "Add to Home screen" in Chrome's menu. It then works offline too.
 
 **License:** noncommercial use only ([PolyForm Noncommercial 1.0.0](LICENSE)). Any commercial use of the code, design, sounds or texts is prohibited. The bundled fonts (Rubik, Karantina) keep their own SIL OFL license.
 

@@ -6,6 +6,7 @@
 <title>קפיצת מסלול</title>
 <meta name="description" content="משחק לחיצה אחת בחלל: קופצים מכוכב לכוכב לפני שהוא מתפרק.">
 <meta name="theme-color" content="#060914">
+<link rel="manifest" href="manifest.webmanifest">
 <meta property="og:title" content="קפיצת מסלול">
 <meta property="og:description" content="משחק לחיצה אחת בחלל: קופצים מכוכב לכוכב לפני שהוא מתפרק.">
 <meta property="og:image" content="https://beniabot.github.io/orbitap/media/screenshot.jpg">
@@ -657,5 +658,6 @@ $('bestMenu').textContent = best > 0 ? `השיא שלך: ${best}` : '';
 requestAnimationFrame(frame);
 })();
 </script>
+<script>if ('serviceWorker' in navigator && location.protocol !== 'file:') navigator.serviceWorker.register('sw.js').catch(function () {});</script>
 </body>
 </html>
